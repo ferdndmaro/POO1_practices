@@ -1,1 +1,18 @@
+# 🏗️ Prácticas de POO1
 
+1. [Figuras sin constructor](./ptc1_figuras_s_constructor.py)
+2. [Figuras con parámetros](./)
+3. [Cálculo de un polinomio](./ptc3_figuras_y_calc_poligono.py)
+4. [Encapsulamiento](./pct4_encapsulamiento.py)
+5. [Uso de Numpy](./pct5_numpy.py)
+6. [Abstracción](./pct6_abstraccion.py)
+7. [Herencia](./pct7_herencia.py)
+8. [Polimorfismo](./pct8_polimorfeado.py)
+9. [Enumeraciones](./pct9_enum.py)
+10.[Diseño avanzado de clases](./pct10_diseño_avanzado_clases.py)
+11.[:)](./pct11_.py)
+12.[Uso de excepciones <Try>](./pct12_try.py)
+13. [Arreglos, listas, conjuntos y diccionarios](./pct13_array_list_set_dicc.py)
+14. [Uso de JSON](./pct14_json.py)
+15. [Introducción a Flask](./pct15_flask.py)
+16. [Manejo de Hilos](./pct16_hilosyred.py)
